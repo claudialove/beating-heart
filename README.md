@@ -5,7 +5,7 @@ a simple site demonstrating an animation that reflects my passion for code
 ## Deployment
 
 This project is deployed to a live github url and can be accessed by clicking here: 
-[beating-heart](https://claudialove.github.io/purrrfic-match-static-bootstrap/)
+[beating-heart](https://claudialove.github.io/beating-heart/)
 
 ### Prerequisites
 
